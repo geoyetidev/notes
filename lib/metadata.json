@@ -1,0 +1,1358 @@
+{
+  "vaultName": "LLMs",
+  "lastExport": 1730669609507,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Authors/Alec Radford.md",
+    "Authors/Alethea Power.md",
+    "Authors/Alex Nichol.md",
+    "Authors/Alex Paino.md",
+    "Authors/Alex Ray.md",
+    "Authors/Alex Wang.md",
+    "Authors/Ali Farhadi.md",
+    "Authors/Amanpreet Singh.md",
+    "Authors/Anastasios Nikolas Angelopoulos.md",
+    "Authors/Andrew N. Carr.md",
+    "Authors/Andy Zou.md",
+    "Authors/Ari Holtzman.md",
+    "Authors/Ariel Herbert-Voss.md",
+    "Authors/Ashish Sabharwal.md",
+    "Authors/Augustus Odena.md",
+    "Authors/Banghua Zhu.md",
+    "Authors/Bob McGrew.md",
+    "Authors/Brooke Chan.md",
+    "Authors/Carissa Schoenick.md",
+    "Authors/Carrie Cai.md",
+    "Authors/Christopher Hesse.md",
+    "Authors/Christopher Manning.md",
+    "Authors/Clemens Winter.md",
+    "Authors/Collin Burns.md",
+    "Authors/Dacheng Li.md",
+    "Authors/Dan Hendrycks.md",
+    "Authors/Dario Amodei.md",
+    "Authors/Dave Cummings.md",
+    "Authors/David Dohan.md",
+    "Authors/Dawn Song.md",
+    "Authors/Dzmitry Bahdanau.md",
+    "Authors/Elizabeth Barnes.md",
+    "Authors/Ellen Jiang.md",
+    "Authors/Eric P. Xing.md",
+    "Authors/Evan Morikawa.md",
+    "Authors/Felipe Petroski Such.md",
+    "Authors/Felix Hill.md",
+    "Authors/Fotios Chantzis.md",
+    "Authors/Girish Sastry.md",
+    "Authors/Greg Brockman.md",
+    "Authors/Gretchen Krueger.md",
+    "Authors/Hao Zhang.md",
+    "Authors/Harm de Vries.md",
+    "Authors/Harri Edwards.md",
+    "Authors/Heewoo Jun.md",
+    "Authors/Heidy Khlaaf.md",
+    "Authors/Henrique Ponde de Oliveira Pinto.md",
+    "Authors/Henryk Michalewski.md",
+    "Authors/Igor Babuschkin.md",
+    "Authors/Ilya Sutskever.md",
+    "Authors/Ion Stoica.md",
+    "Authors/Isaac Cowhey.md",
+    "Authors/Jacob Austin.md",
+    "Authors/Jacob Hilton.md",
+    "Authors/Jacob Steinhardt.md",
+    "Authors/Jan Leike.md",
+    "Authors/Jared Kaplan.md",
+    "Authors/Jerry Tworek.md",
+    "Authors/Jie Tang.md",
+    "Authors/John Schulman.md",
+    "Authors/Joseph E. Gonzalez.md",
+    "Authors/Josh Achiam.md",
+    "Authors/Julian Michael.md",
+    "Authors/Karl Cobbe.md",
+    "Authors/Katie Mayer.md",
+    "Authors/Lianmin Zheng.md",
+    "Authors/Lukasz Kaiser.md",
+    "Authors/Maarten Bosma.md",
+    "Authors/Mantas Mazeika.md",
+    "Authors/Mark Chen.md",
+    "Authors/Matthew Knight.md",
+    "Authors/Matthias Plappert.md",
+    "Authors/Maxwell Nye.md",
+    "Authors/Michael Jordan.md",
+    "Authors/Michael Petrov.md",
+    "Authors/Michael Terry.md",
+    "Authors/Mikhail Pavlov.md",
+    "Authors/Miles Brundage.md",
+    "Authors/Mira Murati.md",
+    "Authors/Mohammad Bavarian.md",
+    "Authors/Nicholas Joseph.md",
+    "Authors/Nick Ryder.md",
+    "Authors/Nikita Nangia.md",
+    "Authors/Nikolas Tezak.md",
+    "Authors/Omer Levy.md",
+    "Authors/Oren Etzioni.md",
+    "Authors/Owain Evans.md",
+    "Authors/Oyvind Tafjord.md",
+    "Authors/Pamela Mishkin.md",
+    "Authors/Peter Clark.md",
+    "Authors/Peter Welinder.md",
+    "Authors/Philippe Tillet.md",
+    "Authors/Qiming Yuan.md",
+    "Authors/Quoc Le, Charles Sutton.md",
+    "Authors/Raul Puri.md",
+    "Authors/Reiichiro Nakano.md",
+    "Authors/Rowan Zellers.md",
+    "Authors/Sam McCandlish.md",
+    "Authors/Samuel R. Bowman.md",
+    "Authors/Scott Gray.md",
+    "Authors/Shantanu Jain.md",
+    "Authors/Siyuan Zhuang.md",
+    "Authors/Stephanie Lin.md",
+    "Authors/Steven Basart.md",
+    "Authors/Suchir Balaji.md",
+    "Authors/Tianle Li.md",
+    "Authors/Tushar Khot.md",
+    "Authors/Vedant Misra.md",
+    "Authors/Vineet Kosaraju.md",
+    "Authors/Wei-Lin Chiang.md",
+    "Authors/William Hebgen Guss.md",
+    "Authors/William Saunders.md",
+    "Authors/Wojciech Zaremba.md",
+    "Authors/Yada Pruksachatkun.md",
+    "Authors/Yejin Choi.md",
+    "Authors/Ying Sheng.md",
+    "Authors/Yonatan Bisk.md",
+    "Authors/Yonghao Zhuang.md",
+    "Authors/Yuri Burda.md",
+    "Authors/Zhanghao Wu.md",
+    "Authors/Zhuohan Li.md",
+    "Authors/Zi Lin.md",
+    "Benchmarks/AI2 Reasoning Challenge (ARC).md",
+    "Benchmarks/Chatbot Arena.md",
+    "Benchmarks/GLUE (General Language Understanding Evaluation).md",
+    "Benchmarks/GSM8K (Grade School Math 8K).md",
+    "Benchmarks/HellaSwag (Harder Endings, Longer contexts and Low-shot Activities for Situations With Adversarial Generations).md",
+    "Benchmarks/HumanEval.md",
+    "Benchmarks/MBPP (Mostly Basic Programming Problems).md",
+    "Benchmarks/MMLU (Massive Multitask Language Understanding).md",
+    "Benchmarks/MT Bench.md",
+    "Benchmarks/SuperGLUE.md",
+    "Benchmarks/TruthfulQA.md",
+    "Benchmarks/Winogrande.md",
+    "Concepts/Chain of Thought.md",
+    "Concepts/Ecological Validity.md",
+    "Concepts/Imitative Falsehoods.md",
+    "Concepts/Natural Language Understanding.md",
+    "Papers/Chatbot Arena- An Open Platform for Evaluating LLMs by Human Preference.md",
+    "Papers/Evaluating Large Language Models Trained on Code.md",
+    "Papers/GLUE- A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding.md",
+    "Papers/HellaSwag- Can a Machine Really Finish Your Sentence?.md",
+    "Papers/Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
+    "Papers/Measuring Massive Multitask Language Understanding.md",
+    "Papers/Program Synthesis with Large Language Models.md",
+    "Papers/SuperGLUE- A Stickier Benchmark for General-Purpose Language Understanding Systems.md",
+    "Papers/Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge.md",
+    "Papers/Towards Ecologically Valid Research on Language User Interfaces.md",
+    "Papers/Training Verifiers to Solve Math Word Problems.md",
+    "Papers/TruthfulQA- Measuring How Models Mimic Human Falsehoods.md",
+    "Papers/WinoGrande- An Adversarial Winograd Schema Challenge at Scale.md",
+    "Templates/Academic Paper.md",
+    "Webpages/AI - Overview of common LLM Benchmarks.md",
+    "Webpages/AI Fairness 360.md",
+    "Webpages/An In-depth Guide to Benchmarking LLMs.md",
+    "Webpages/An introduction to code LLM benchmarks for software engineers.md",
+    "Webpages/Benchmarking AI.md",
+    "Webpages/DataComp.md",
+    "Webpages/DataPerf.md",
+    "Webpages/Errors in the MMLU- The Deep Learning Benchmark is Wrong Surprisingly Often.md",
+    "Webpages/NIST - AI RMF.md",
+    "Webpages/Tensorflow - Fairness Indicators.md",
+    "Annotated Bibliography.md",
+    "Reading List.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 656,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 243,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 131134,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1730669594625,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Authors/Alec Radford.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Alec Radford.html",
+      "dependencies": []
+    },
+    "Authors/Alethea Power.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Alethea Power.html",
+      "dependencies": []
+    },
+    "Authors/Alex Nichol.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Alex Nichol.html",
+      "dependencies": []
+    },
+    "Authors/Alex Paino.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Alex Paino.html",
+      "dependencies": []
+    },
+    "Authors/Alex Ray.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Alex Ray.html",
+      "dependencies": []
+    },
+    "Authors/Alex Wang.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Alex Wang.html",
+      "dependencies": []
+    },
+    "Authors/Ali Farhadi.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Ali Farhadi.html",
+      "dependencies": []
+    },
+    "Authors/Amanpreet Singh.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Amanpreet Singh.html",
+      "dependencies": []
+    },
+    "Authors/Anastasios Nikolas Angelopoulos.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Anastasios Nikolas Angelopoulos.html",
+      "dependencies": []
+    },
+    "Authors/Andrew N. Carr.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Andrew N. Carr.html",
+      "dependencies": []
+    },
+    "Authors/Andy Zou.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Andy Zou.html",
+      "dependencies": []
+    },
+    "Authors/Ari Holtzman.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Ari Holtzman.html",
+      "dependencies": []
+    },
+    "Authors/Ariel Herbert-Voss.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Ariel Herbert-Voss.html",
+      "dependencies": []
+    },
+    "Authors/Ashish Sabharwal.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Ashish Sabharwal.html",
+      "dependencies": []
+    },
+    "Authors/Augustus Odena.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Augustus Odena.html",
+      "dependencies": []
+    },
+    "Authors/Banghua Zhu.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Banghua Zhu.html",
+      "dependencies": []
+    },
+    "Authors/Bob McGrew.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Bob McGrew.html",
+      "dependencies": []
+    },
+    "Authors/Brooke Chan.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Brooke Chan.html",
+      "dependencies": []
+    },
+    "Authors/Carissa Schoenick.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Carissa Schoenick.html",
+      "dependencies": []
+    },
+    "Authors/Carrie Cai.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Carrie Cai.html",
+      "dependencies": []
+    },
+    "Authors/Christopher Hesse.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Christopher Hesse.html",
+      "dependencies": []
+    },
+    "Authors/Christopher Manning.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Christopher Manning.html",
+      "dependencies": []
+    },
+    "Authors/Clemens Winter.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Clemens Winter.html",
+      "dependencies": []
+    },
+    "Authors/Collin Burns.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Collin Burns.html",
+      "dependencies": []
+    },
+    "Authors/Dacheng Li.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Dacheng Li.html",
+      "dependencies": []
+    },
+    "Authors/Dan Hendrycks.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Dan Hendrycks.html",
+      "dependencies": []
+    },
+    "Authors/Dario Amodei.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Dario Amodei.html",
+      "dependencies": []
+    },
+    "Authors/Dave Cummings.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Dave Cummings.html",
+      "dependencies": []
+    },
+    "Authors/David Dohan.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/David Dohan.html",
+      "dependencies": []
+    },
+    "Authors/Dawn Song.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Dawn Song.html",
+      "dependencies": []
+    },
+    "Authors/Dzmitry Bahdanau.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Dzmitry Bahdanau.html",
+      "dependencies": []
+    },
+    "Authors/Elizabeth Barnes.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Elizabeth Barnes.html",
+      "dependencies": []
+    },
+    "Authors/Ellen Jiang.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Ellen Jiang.html",
+      "dependencies": []
+    },
+    "Authors/Eric P. Xing.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Eric P. Xing.html",
+      "dependencies": []
+    },
+    "Authors/Evan Morikawa.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Evan Morikawa.html",
+      "dependencies": []
+    },
+    "Authors/Felipe Petroski Such.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Felipe Petroski Such.html",
+      "dependencies": []
+    },
+    "Authors/Felix Hill.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Felix Hill.html",
+      "dependencies": []
+    },
+    "Authors/Fotios Chantzis.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Fotios Chantzis.html",
+      "dependencies": []
+    },
+    "Authors/Girish Sastry.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Girish Sastry.html",
+      "dependencies": []
+    },
+    "Authors/Greg Brockman.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Greg Brockman.html",
+      "dependencies": []
+    },
+    "Authors/Gretchen Krueger.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Gretchen Krueger.html",
+      "dependencies": []
+    },
+    "Authors/Hao Zhang.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Hao Zhang.html",
+      "dependencies": []
+    },
+    "Authors/Harm de Vries.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Harm de Vries.html",
+      "dependencies": []
+    },
+    "Authors/Harri Edwards.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Harri Edwards.html",
+      "dependencies": []
+    },
+    "Authors/Heewoo Jun.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Heewoo Jun.html",
+      "dependencies": []
+    },
+    "Authors/Heidy Khlaaf.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Heidy Khlaaf.html",
+      "dependencies": []
+    },
+    "Authors/Henrique Ponde de Oliveira Pinto.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Henrique Ponde de Oliveira Pinto.html",
+      "dependencies": []
+    },
+    "Authors/Henryk Michalewski.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Henryk Michalewski.html",
+      "dependencies": []
+    },
+    "Authors/Igor Babuschkin.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Igor Babuschkin.html",
+      "dependencies": []
+    },
+    "Authors/Ilya Sutskever.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Ilya Sutskever.html",
+      "dependencies": []
+    },
+    "Authors/Ion Stoica.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Ion Stoica.html",
+      "dependencies": []
+    },
+    "Authors/Isaac Cowhey.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Isaac Cowhey.html",
+      "dependencies": []
+    },
+    "Authors/Jacob Austin.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Jacob Austin.html",
+      "dependencies": []
+    },
+    "Authors/Jacob Hilton.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Jacob Hilton.html",
+      "dependencies": []
+    },
+    "Authors/Jacob Steinhardt.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Jacob Steinhardt.html",
+      "dependencies": []
+    },
+    "Authors/Jan Leike.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Jan Leike.html",
+      "dependencies": []
+    },
+    "Authors/Jared Kaplan.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Jared Kaplan.html",
+      "dependencies": []
+    },
+    "Authors/Jerry Tworek.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Jerry Tworek.html",
+      "dependencies": []
+    },
+    "Authors/Jie Tang.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Jie Tang.html",
+      "dependencies": []
+    },
+    "Authors/John Schulman.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/John Schulman.html",
+      "dependencies": []
+    },
+    "Authors/Joseph E. Gonzalez.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Joseph E. Gonzalez.html",
+      "dependencies": []
+    },
+    "Authors/Josh Achiam.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Josh Achiam.html",
+      "dependencies": []
+    },
+    "Authors/Julian Michael.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Julian Michael.html",
+      "dependencies": []
+    },
+    "Authors/Karl Cobbe.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Karl Cobbe.html",
+      "dependencies": []
+    },
+    "Authors/Katie Mayer.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Katie Mayer.html",
+      "dependencies": []
+    },
+    "Authors/Lianmin Zheng.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Lianmin Zheng.html",
+      "dependencies": []
+    },
+    "Authors/Lukasz Kaiser.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Lukasz Kaiser.html",
+      "dependencies": []
+    },
+    "Authors/Maarten Bosma.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Maarten Bosma.html",
+      "dependencies": []
+    },
+    "Authors/Mantas Mazeika.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Mantas Mazeika.html",
+      "dependencies": []
+    },
+    "Authors/Mark Chen.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Mark Chen.html",
+      "dependencies": []
+    },
+    "Authors/Matthew Knight.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Matthew Knight.html",
+      "dependencies": []
+    },
+    "Authors/Matthias Plappert.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Matthias Plappert.html",
+      "dependencies": []
+    },
+    "Authors/Maxwell Nye.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Maxwell Nye.html",
+      "dependencies": []
+    },
+    "Authors/Michael Jordan.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Michael Jordan.html",
+      "dependencies": []
+    },
+    "Authors/Michael Petrov.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Michael Petrov.html",
+      "dependencies": []
+    },
+    "Authors/Michael Terry.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Michael Terry.html",
+      "dependencies": []
+    },
+    "Authors/Mikhail Pavlov.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Mikhail Pavlov.html",
+      "dependencies": []
+    },
+    "Authors/Miles Brundage.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Miles Brundage.html",
+      "dependencies": []
+    },
+    "Authors/Mira Murati.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Mira Murati.html",
+      "dependencies": []
+    },
+    "Authors/Mohammad Bavarian.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Mohammad Bavarian.html",
+      "dependencies": []
+    },
+    "Authors/Nicholas Joseph.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Nicholas Joseph.html",
+      "dependencies": []
+    },
+    "Authors/Nick Ryder.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Nick Ryder.html",
+      "dependencies": []
+    },
+    "Authors/Nikita Nangia.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Nikita Nangia.html",
+      "dependencies": []
+    },
+    "Authors/Nikolas Tezak.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Nikolas Tezak.html",
+      "dependencies": []
+    },
+    "Authors/Omer Levy.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Omer Levy.html",
+      "dependencies": []
+    },
+    "Authors/Oren Etzioni.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Oren Etzioni.html",
+      "dependencies": []
+    },
+    "Authors/Owain Evans.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Owain Evans.html",
+      "dependencies": []
+    },
+    "Authors/Oyvind Tafjord.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Oyvind Tafjord.html",
+      "dependencies": []
+    },
+    "Authors/Pamela Mishkin.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Pamela Mishkin.html",
+      "dependencies": []
+    },
+    "Authors/Peter Clark.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Peter Clark.html",
+      "dependencies": []
+    },
+    "Authors/Peter Welinder.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Peter Welinder.html",
+      "dependencies": []
+    },
+    "Authors/Philippe Tillet.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Philippe Tillet.html",
+      "dependencies": []
+    },
+    "Authors/Qiming Yuan.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Qiming Yuan.html",
+      "dependencies": []
+    },
+    "Authors/Quoc Le, Charles Sutton.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Quoc Le, Charles Sutton.html",
+      "dependencies": []
+    },
+    "Authors/Raul Puri.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Raul Puri.html",
+      "dependencies": []
+    },
+    "Authors/Reiichiro Nakano.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Reiichiro Nakano.html",
+      "dependencies": []
+    },
+    "Authors/Rowan Zellers.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Rowan Zellers.html",
+      "dependencies": []
+    },
+    "Authors/Sam McCandlish.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Sam McCandlish.html",
+      "dependencies": []
+    },
+    "Authors/Samuel R. Bowman.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Samuel R. Bowman.html",
+      "dependencies": []
+    },
+    "Authors/Scott Gray.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Scott Gray.html",
+      "dependencies": []
+    },
+    "Authors/Shantanu Jain.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Shantanu Jain.html",
+      "dependencies": []
+    },
+    "Authors/Siyuan Zhuang.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Siyuan Zhuang.html",
+      "dependencies": []
+    },
+    "Authors/Stephanie Lin.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Stephanie Lin.html",
+      "dependencies": []
+    },
+    "Authors/Steven Basart.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Steven Basart.html",
+      "dependencies": []
+    },
+    "Authors/Suchir Balaji.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Suchir Balaji.html",
+      "dependencies": []
+    },
+    "Authors/Tianle Li.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Tianle Li.html",
+      "dependencies": []
+    },
+    "Authors/Tushar Khot.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Tushar Khot.html",
+      "dependencies": []
+    },
+    "Authors/Vedant Misra.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Vedant Misra.html",
+      "dependencies": []
+    },
+    "Authors/Vineet Kosaraju.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Vineet Kosaraju.html",
+      "dependencies": []
+    },
+    "Authors/Wei-Lin Chiang.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Wei-Lin Chiang.html",
+      "dependencies": []
+    },
+    "Authors/William Hebgen Guss.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/William Hebgen Guss.html",
+      "dependencies": []
+    },
+    "Authors/William Saunders.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/William Saunders.html",
+      "dependencies": []
+    },
+    "Authors/Wojciech Zaremba.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Wojciech Zaremba.html",
+      "dependencies": []
+    },
+    "Authors/Yada Pruksachatkun.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Yada Pruksachatkun.html",
+      "dependencies": []
+    },
+    "Authors/Yejin Choi.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Yejin Choi.html",
+      "dependencies": []
+    },
+    "Authors/Ying Sheng.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Ying Sheng.html",
+      "dependencies": []
+    },
+    "Authors/Yonatan Bisk.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Yonatan Bisk.html",
+      "dependencies": []
+    },
+    "Authors/Yonghao Zhuang.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Yonghao Zhuang.html",
+      "dependencies": []
+    },
+    "Authors/Yuri Burda.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Yuri Burda.html",
+      "dependencies": []
+    },
+    "Authors/Zhanghao Wu.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Zhanghao Wu.html",
+      "dependencies": []
+    },
+    "Authors/Zhuohan Li.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Zhuohan Li.html",
+      "dependencies": []
+    },
+    "Authors/Zi Lin.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Authors/Zi Lin.html",
+      "dependencies": []
+    },
+    "Benchmarks/AI2 Reasoning Challenge (ARC).md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 995,
+      "exportedPath": "Benchmarks/AI2 Reasoning Challenge (ARC).html",
+      "dependencies": []
+    },
+    "Benchmarks/Chatbot Arena.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 400,
+      "exportedPath": "Benchmarks/Chatbot Arena.html",
+      "dependencies": []
+    },
+    "Benchmarks/GLUE (General Language Understanding Evaluation).md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 945,
+      "exportedPath": "Benchmarks/GLUE (General Language Understanding Evaluation).html",
+      "dependencies": []
+    },
+    "Benchmarks/GSM8K (Grade School Math 8K).md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 972,
+      "exportedPath": "Benchmarks/GSM8K (Grade School Math 8K).html",
+      "dependencies": []
+    },
+    "Benchmarks/HellaSwag (Harder Endings, Longer contexts and Low-shot Activities for Situations With Adversarial Generations).md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1335,
+      "exportedPath": "Benchmarks/HellaSwag (Harder Endings, Longer contexts and Low-shot Activities for Situations With Adversarial Generations).html",
+      "dependencies": []
+    },
+    "Benchmarks/HumanEval.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1369,
+      "exportedPath": "Benchmarks/HumanEval.html",
+      "dependencies": []
+    },
+    "Benchmarks/MBPP (Mostly Basic Programming Problems).md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 376,
+      "exportedPath": "Benchmarks/MBPP (Mostly Basic Programming Problems).html",
+      "dependencies": []
+    },
+    "Benchmarks/MMLU (Massive Multitask Language Understanding).md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1373,
+      "exportedPath": "Benchmarks/MMLU (Massive Multitask Language Understanding).html",
+      "dependencies": []
+    },
+    "Benchmarks/MT Bench.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 749,
+      "exportedPath": "Benchmarks/MT Bench.html",
+      "dependencies": []
+    },
+    "Benchmarks/SuperGLUE.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1234,
+      "exportedPath": "Benchmarks/SuperGLUE.html",
+      "dependencies": []
+    },
+    "Benchmarks/TruthfulQA.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1095,
+      "exportedPath": "Benchmarks/TruthfulQA.html",
+      "dependencies": []
+    },
+    "Benchmarks/Winogrande.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1049,
+      "exportedPath": "Benchmarks/Winogrande.html",
+      "dependencies": []
+    },
+    "Concepts/Chain of Thought.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 2710,
+      "exportedPath": "Concepts/Chain of Thought.html",
+      "dependencies": []
+    },
+    "Concepts/Ecological Validity.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 68,
+      "exportedPath": "Concepts/Ecological Validity.html",
+      "dependencies": []
+    },
+    "Concepts/Imitative Falsehoods.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Concepts/Imitative Falsehoods.html",
+      "dependencies": []
+    },
+    "Concepts/Natural Language Understanding.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 0,
+      "exportedPath": "Concepts/Natural Language Understanding.html",
+      "dependencies": []
+    },
+    "Papers/Chatbot Arena- An Open Platform for Evaluating LLMs by Human Preference.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1525,
+      "exportedPath": "Papers/Chatbot Arena- An Open Platform for Evaluating LLMs by Human Preference.html",
+      "dependencies": []
+    },
+    "Papers/Evaluating Large Language Models Trained on Code.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 2199,
+      "exportedPath": "Papers/Evaluating Large Language Models Trained on Code.html",
+      "dependencies": []
+    },
+    "Papers/GLUE- A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1284,
+      "exportedPath": "Papers/GLUE- A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding.html",
+      "dependencies": []
+    },
+    "Papers/HellaSwag- Can a Machine Really Finish Your Sentence?.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1706,
+      "exportedPath": "Papers/HellaSwag- Can a Machine Really Finish Your Sentence/HellaSwag- Can a Machine Really Finish Your Sentence.html",
+      "dependencies": []
+    },
+    "Papers/Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1621,
+      "exportedPath": "Papers/Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.html",
+      "dependencies": []
+    },
+    "Papers/Measuring Massive Multitask Language Understanding.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1269,
+      "exportedPath": "Papers/Measuring Massive Multitask Language Understanding.html",
+      "dependencies": []
+    },
+    "Papers/Program Synthesis with Large Language Models.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 2238,
+      "exportedPath": "Papers/Program Synthesis with Large Language Models.html",
+      "dependencies": []
+    },
+    "Papers/SuperGLUE- A Stickier Benchmark for General-Purpose Language Understanding Systems.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 945,
+      "exportedPath": "Papers/SuperGLUE- A Stickier Benchmark for General-Purpose Language Understanding Systems.html",
+      "dependencies": []
+    },
+    "Papers/Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1399,
+      "exportedPath": "Papers/Think you have Solved Question Answering/Think you have Solved Question Answering.html",
+      "dependencies": []
+    },
+    "Papers/Towards Ecologically Valid Research on Language User Interfaces.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1363,
+      "exportedPath": "Papers/Towards Ecologically Valid Research on Language User Interfaces.html",
+      "dependencies": []
+    },
+    "Papers/Training Verifiers to Solve Math Word Problems.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1257,
+      "exportedPath": "Papers/Training Verifiers to Solve Math Word Problems.html",
+      "dependencies": []
+    },
+    "Papers/TruthfulQA- Measuring How Models Mimic Human Falsehoods.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1228,
+      "exportedPath": "Papers/TruthfulQA- Measuring How Models Mimic Human Falsehoods.html",
+      "dependencies": []
+    },
+    "Papers/WinoGrande- An Adversarial Winograd Schema Challenge at Scale.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 2075,
+      "exportedPath": "Papers/WinoGrande- An Adversarial Winograd Schema Challenge at Scale.html",
+      "dependencies": []
+    },
+    "Templates/Academic Paper.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 76,
+      "exportedPath": "Templates/Academic Paper.html",
+      "dependencies": []
+    },
+    "Webpages/AI - Overview of common LLM Benchmarks.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 567,
+      "exportedPath": "Webpages/AI - Overview of common LLM Benchmarks.html",
+      "dependencies": []
+    },
+    "Webpages/AI Fairness 360.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 46,
+      "exportedPath": "Webpages/AI Fairness 360.html",
+      "dependencies": []
+    },
+    "Webpages/An In-depth Guide to Benchmarking LLMs.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1310,
+      "exportedPath": "Webpages/An In-depth Guide to Benchmarking LLMs.html",
+      "dependencies": []
+    },
+    "Webpages/An introduction to code LLM benchmarks for software engineers.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 98,
+      "exportedPath": "Webpages/An introduction to code LLM benchmarks for software engineers.html",
+      "dependencies": []
+    },
+    "Webpages/Benchmarking AI.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 3516,
+      "exportedPath": "Webpages/Benchmarking AI.html",
+      "dependencies": []
+    },
+    "Webpages/DataComp.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 33,
+      "exportedPath": "Webpages/DataComp.html",
+      "dependencies": []
+    },
+    "Webpages/DataPerf.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 34,
+      "exportedPath": "Webpages/DataPerf.html",
+      "dependencies": []
+    },
+    "Webpages/Errors in the MMLU- The Deep Learning Benchmark is Wrong Surprisingly Often.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 86,
+      "exportedPath": "Webpages/Errors in the MMLU- The Deep Learning Benchmark is Wrong Surprisingly Often.html",
+      "dependencies": []
+    },
+    "Webpages/NIST - AI RMF.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 133,
+      "exportedPath": "Webpages/NIST - AI RMF.html",
+      "dependencies": []
+    },
+    "Webpages/Tensorflow - Fairness Indicators.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 66,
+      "exportedPath": "Webpages/Tensorflow - Fairness Indicators.html",
+      "dependencies": []
+    },
+    "Annotated Bibliography.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1049,
+      "exportedPath": "Annotated Bibliography.html",
+      "dependencies": []
+    },
+    "Reading List.md": {
+      "modifiedTime": 1730669609507,
+      "sourceSize": 1421,
+      "exportedPath": "Reading List.html",
+      "dependencies": []
+    }
+  }
+}
