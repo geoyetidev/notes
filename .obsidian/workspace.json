@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "3999a54da9cf12f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1099bb6906765a06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbf51845ae4de38c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webpages/Benchmarking AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benchmarking AI"
+            }
+          },
+          {
+            "id": "8b921a48a707737d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Towards Ecologically Valid Research on Language User Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Towards Ecologically Valid Research on Language User Interfaces"
+            }
+          },
+          {
+            "id": "f9b569849ca3aa3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Authors/Harm de Vries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Harm de Vries"
+            }
+          },
+          {
+            "id": "7518e4192866177d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webpages/Benchmarking AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benchmarking AI"
+            }
+          },
+          {
+            "id": "510a8b5427b0db2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Ecological Validity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ecological Validity"
+            }
+          },
+          {
+            "id": "c42860a599599f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annotated Bibliography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Annotated Bibliography"
+            }
+          },
+          {
+            "id": "558a9bd6d1843604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reading List"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "417232d3ca4a02a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca7f9a27f3fedd9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d5e5c010dd40bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f93b2b543eca8b4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "615121f22698223b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d9c17f543595f58",
+    "type": "split",
+    "children": [
+      {
+        "id": "2afa8e017d9d26f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d265dce6fb399ceb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Webpages/Benchmarking AI.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Benchmarking AI"
+            }
+          },
+          {
+            "id": "e77e9f51836f8e8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Webpages/Benchmarking AI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Benchmarking AI"
+            }
+          },
+          {
+            "id": "ec08e991f44211bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f1710e41219db3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Webpages/Benchmarking AI.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Benchmarking AI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7518e4192866177d",
+  "lastOpenFiles": [
+    "tmp/notes",
+    "tmp",
+    "Webpages/DataPerf.md",
+    "Reading List.md",
+    "Webpages/Benchmarking AI.md",
+    "Webpages/DataComp.md",
+    "Concepts/Ecological Validity.md",
+    "Papers/Towards Ecologically Valid Research on Language User Interfaces.md",
+    "Authors/Christopher Manning.md",
+    "Authors/Dzmitry Bahdanau.md",
+    "Authors/Harm de Vries.md",
+    "Annotated Bibliography.md",
+    "Webpages/An In-depth Guide to Benchmarking LLMs.md",
+    "Webpages/AI - Overview of common LLM Benchmarks.md",
+    "Benchmarks/AI2 Reasoning Challenge (ARC).md",
+    "Webpages/Tensorflow - Fairness Indicators.md",
+    "Webpages/AI Fairness 360.md",
+    "Templates/Academic Paper.md",
+    "Papers/WinoGrande- An Adversarial Winograd Schema Challenge at Scale.md",
+    "Papers/TruthfulQA- Measuring How Models Mimic Human Falsehoods.md",
+    "Papers/Training Verifiers to Solve Math Word Problems.md",
+    "Papers/Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge.md",
+    "Papers/SuperGLUE- A Stickier Benchmark for General-Purpose Language Understanding Systems.md",
+    "Papers/Program Synthesis with Large Language Models.md",
+    "Papers/Measuring Massive Multitask Language Understanding.md",
+    "Papers/Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
+    "Papers/HellaSwag- Can a Machine Really Finish Your Sentence?.md",
+    "Concepts",
+    "Templates",
+    "Tags",
+    "Benchmarks",
+    "Authors",
+    "Papers",
+    "Webpages"
+  ]
+}
