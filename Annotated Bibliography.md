@@ -5,3 +5,7 @@ Provides an executive overview of a number of common benchmarks used to compare 
 Provides links to a number of common benchmarks used to compare industry models. Gives a paragraph on each model (often with key information on the quantitative evaluation of the benchmark). Provides a generalized Pros/Cons assessment of each data set. [Link](https://symbl.ai/developers/blog/an-in-depth-guide-to-benchmarking-llms/)
 ## [[Benchmarking AI]]
 Extensive overview of various types of benchmarks for evaluation of AI across System, Model & Data dimensions. Authors have a clear preference for raising the visibility of System metrics (e.g. memory consumption, training time, etc) [Link](https://mlsysbook.ai/contents/benchmarking/benchmarking.html)
+
+
+[Program Synthesis with Large Language Models](Program%20Synthesis%20with%20Large%20Language%20Models.md)
+

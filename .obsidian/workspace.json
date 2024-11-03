@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webpages/Benchmarking AI.md",
+                "file": "Annotated Bibliography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Benchmarking AI"
+              "title": "Annotated Bibliography"
             }
           },
           {
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webpages/Benchmarking AI.md",
+                "file": "Annotated Bibliography.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Benchmarking AI"
+              "title": "Backlinks for Annotated Bibliography"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webpages/Benchmarking AI.md",
+                "file": "Annotated Bibliography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Benchmarking AI"
+              "title": "Outgoing links from Annotated Bibliography"
             }
           },
           {
@@ -224,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webpages/Benchmarking AI.md"
+                "file": "Annotated Bibliography.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Benchmarking AI"
+              "title": "Outline of Annotated Bibliography"
             }
           }
         ]
@@ -249,11 +249,11 @@
   },
   "active": "7518e4192866177d",
   "lastOpenFiles": [
+    "Webpages/Benchmarking AI.md",
     "tmp/notes",
     "tmp",
     "Webpages/DataPerf.md",
     "Reading List.md",
-    "Webpages/Benchmarking AI.md",
     "Webpages/DataComp.md",
     "Concepts/Ecological Validity.md",
     "Papers/Towards Ecologically Valid Research on Language User Interfaces.md",
