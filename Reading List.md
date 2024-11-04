@@ -1,7 +1,7 @@
 ## Websites
 - [x] [[AI - Overview of common LLM Benchmarks]]
 - [x] [[An In-depth Guide to Benchmarking LLMs]]
-- [ ] [[Benchmarking AI]]
+- [x] [[Benchmarking AI]]
 - [ ] [[AI Fairness 360]]
 - [ ] [[Tensorflow - Fairness Indicators]]
 - [ ] [[DataComp]]
@@ -22,6 +22,6 @@
 - [ ] [[Training Verifiers to Solve Math Word Problems]]
 - [ ] [[TruthfulQA- Measuring How Models Mimic Human Falsehoods]]
 - [ ] [[WinoGrande- An Adversarial Winograd Schema Challenge at Scale]]
-## Other Papers
+## Other Papers and Resources
 - [ ] [[NIST - AI RMF]]
 - [ ] [[Towards Ecologically Valid Research on Language User Interfaces]]

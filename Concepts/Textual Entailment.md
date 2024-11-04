@@ -1,0 +1,1 @@
+"In natural language processing, textual entailment (TE), also known as natural language inference (NLI), is a directional relation between text fragments. The relation holds whenever the truth of one text fragment follows from another text. " [Wikipedia](https://en.wikipedia.org/wiki/Textual_entailment)
