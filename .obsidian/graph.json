@@ -32,7 +32,14 @@
       "query": "path: Benchmarks  ",
       "color": {
         "a": 1,
-        "rgb": 6319831
+        "rgb": 13983959
+      }
+    },
+    {
+      "query": "path:Organizations  ",
+      "color": {
+        "a": 1,
+        "rgb": 65531
       }
     }
   ],
