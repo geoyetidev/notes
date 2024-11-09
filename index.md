@@ -4,6 +4,8 @@ The goal of these notes is to gain a better understanding of Large Language Mode
 # [[Annotated Bibliography]]
 An opinionated assessment of the underlying resources we've currently read and tried to understand. 
 
+# [[Checklist Notes]]
+Notes on how to assess models, corpora of text, and organizations for "readiness" to adopt LLM based technologies based on concepts of risk management and information literacy.
 
 # [[Reading List]]
 This page manages the current state of captured documents with respect to what has been read

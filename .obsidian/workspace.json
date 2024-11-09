@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading List.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading List"
+              "title": "index"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Checklist Notes.md",
+                "file": "Annotated Bibliography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist Notes"
+              "title": "Annotated Bibliography"
             }
           }
         ]
@@ -220,12 +220,12 @@
       }
     ]
   },
-  "active": "0db7ada3b7011ede",
+  "active": "2f434ce925621fa6",
   "lastOpenFiles": [
     "Reading List.md",
-    "Publications/Framework for Information Literacy for Higher Education.md",
-    "Checklist Notes.md",
     "Annotated Bibliography.md",
+    "Checklist Notes.md",
+    "Publications/Framework for Information Literacy for Higher Education.md",
     "Assets/Framework for Information Literacy for Higher Education - Framework_ILHE.pdf",
     "Publications/NIST AI 100-1.md",
     "Assets/NIST.AI.100-1.pdf",
